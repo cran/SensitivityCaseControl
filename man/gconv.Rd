@@ -31,7 +31,7 @@ The probability that the convolution of the two random variables takes on the va
 %% ...
 }
 \references{
-Section 2.3 of Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2012).  "Case Definition and Design Sensitivity."  Working paper.
+Section 2.3 of Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2013).  "Case Definition and Design Sensitivity."  Journal of the American Statistical Association, 108, 1457-1468.
 %% ~put references to the literature/web site here ~
 }
 \examples{

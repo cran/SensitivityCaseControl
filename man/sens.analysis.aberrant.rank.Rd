@@ -9,7 +9,7 @@ This function carries out sensitivity analysis for the aberrant rank test for ma
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
-sens.analysis.aberrant.rank(cases.exposed, referents.exposed, case.rank, no.referents, Gamma)
+sens.analysis.aberrant.rank(cases.exposed,referents.exposed,case.rank,no.referents,Gamma)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -48,6 +48,6 @@ The test being conducted is of the null hypothesis of no treatment effect vs. a 
 %% ...
 }
 \references{
-Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2012).  "Case Definition and Design Sensitivity."  Working paper.
+Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2013).  "Case Definition and Design Sensitivity."  Journal of the American Statistical Association, 108, 1457-1468.
 %% ~put references to the literature/web site here ~
 }

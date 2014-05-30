@@ -32,6 +32,6 @@ Significance level at which the test is conducted (alpha = 0.05).
 %% ...
 }
 \references{
-Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2012).  "Case Definition and Design Sensitivity."  Working paper.  See Section 5.1 of the paper.
+Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2013).  "Case Definition and Design Sensitivity."  Journal of the American Statistical Association, 108, 1457-1468.  See Section 5.1 of the paper.
 %% ~put references to the literature/web site here ~
 }

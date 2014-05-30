@@ -48,7 +48,7 @@ See Small, Cheng, Halloran and Rosenbaum (2012) for further details.
 %% ...
 }
 \references{
-Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2012).  "Case Definition and Design Sensitivity."  Working paper.
+Small, D.S., Cheng, J., Halloran, M.E. and Rosenbaum, P.R. (2013).  "Case Definition and Design Sensitivity."  Journal of the American Statistical Association, 108, 1457-1468.
 %% ~put references to the literature/web site here ~
 }
 \examples{
