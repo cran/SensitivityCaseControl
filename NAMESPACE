@@ -1,1 +1,2 @@
 export(adaptive.case.test,adaptive.noether.brown,adaptive.test.critical.value.func,gconv,jointcrit,mhxct.weighted,sens.analysis.aberrant.rank,sens.analysis.mh)
+importFrom("stats", "convolve", "pnorm")

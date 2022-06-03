@@ -1,6 +1,5 @@
-d3978dbd74834741b4e082452f1a2801 *DESCRIPTION
-8fa81ffe0ec70e20f3f65b307c68d630 *NAMESPACE
-755ab6057e4f6f151070c2b312663bb2 *R/SensitivityCaseControl-internal.R
+74d0fc76c8ef2394eeab2372e152fb15 *DESCRIPTION
+b32f87e627b710ab81d845bcb301f752 *NAMESPACE
 69f1be55c0d795afd37f90b5d0d9f777 *R/adaptive.case.test.R
 ab10c917df64351b91c49cf7c8115fe1 *R/adaptive.noether.brown.R
 fdd2d27ffe9e95d507e8692fe3357815 *R/adaptive.test.critical.value.func.R
